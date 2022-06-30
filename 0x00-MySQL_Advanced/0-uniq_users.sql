@@ -1,4 +1,6 @@
 -- Creates a table 'users'
+CREATE DATABASE IF NOT EXISTS holberton;
+USE holberton;
 CREATE TABLE
 IF NOT EXISTS holberton.users
 (
